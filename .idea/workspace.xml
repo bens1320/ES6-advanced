@@ -20,11 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a81c8569-d569-4676-b6b5-e98cc9cf8920" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7-ES6Module/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/7-ES6Module/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/7-ES6Module/1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/7-ES6Module/2.js" beforeDir="false" afterPath="$PROJECT_DIR$/7-ES6Module/2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7-ES6Module/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/7-ES6Module/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +42,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -56,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1615476278009</updated>
       <workItem from="1615476279024" duration="435000" />
-      <workItem from="1615476737450" duration="441000" />
+      <workItem from="1615476737450" duration="1685000" />
     </task>
     <servers />
   </component>
