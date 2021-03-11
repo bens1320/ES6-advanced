@@ -20,11 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a81c8569-d569-4676-b6b5-e98cc9cf8920" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7-ES6Module/skills.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7-ES6Module/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/7-ES6Module/1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7-ES6Module/2.js" beforeDir="false" afterPath="$PROJECT_DIR$/7-ES6Module/2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7-ES6Module/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/7-ES6Module/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7-ES6Module/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1615476278009</updated>
       <workItem from="1615476279024" duration="435000" />
-      <workItem from="1615476737450" duration="2277000" />
+      <workItem from="1615476737450" duration="2472000" />
     </task>
     <servers />
   </component>
