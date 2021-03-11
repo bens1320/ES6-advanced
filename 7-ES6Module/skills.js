@@ -1,3 +1,3 @@
-{
-  window.skills = ['HTMl', 'CSS', 'JavaScript']
-}
+let skills = ['HTMl', 'CSS', 'JavaScript']
+
+export default skills
