@@ -1,11 +1,6 @@
 .DS_Store
 .idea/
 
-11.js
-test/
-test2/
 test4/*
-!test4/1.js
+!test4/a.js
 
-scaffolds/*
-!scaffolds/draft.md
