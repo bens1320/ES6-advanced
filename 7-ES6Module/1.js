@@ -6,5 +6,5 @@ let sayHello = function () {
   alert(`你好，我是${name}，今年 ${age} 岁了，会 ${skills}`)
 }
 
+export * from './skills.js'
 export {name, age, sayHello}
-export default sayHello
