@@ -1,10 +1,12 @@
-import module1 from './1.js'
-import module2 from './2.js'
+import x, {name as name1} from './1.js'
+import y, * as module2 from './2.js'
 
 setTimeout(() => {
-  module1()
+  x()
+  console.log(name1)
 }, 3000)
 
 setTimeout(() => {
-  module2()
+  y()
+  console.log(module2.name)
 }, 2000)
