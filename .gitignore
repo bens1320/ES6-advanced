@@ -1,9 +1,6 @@
 .DS_Store
 .idea
 
-test/*
-!test/1.js
-
-test2
+1.js
 
 
