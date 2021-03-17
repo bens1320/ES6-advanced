@@ -6,3 +6,6 @@ test/
 test2/
 test4/*
 !test4/1.js
+
+scaffolds/*
+!scaffolds/draft.md
